@@ -1,7 +1,7 @@
 {
     "name": "com.mandarin.upm-test-package",
     "displayName": "Mandarin UPM Test Package",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "unity": "2018.3",
     "description": "Just a test",
     "category": "Unity",
