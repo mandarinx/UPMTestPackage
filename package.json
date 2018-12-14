@@ -1,0 +1,11 @@
+{
+    "name": "com.mandarin.upm-test-package",
+    "displayName": "Mandarin UPM Test Package",
+    "version": "0.0.1",
+    "unity": "2018.3",
+    "description": "Just a test",
+    "category": "Unity",
+    "keywords": [
+        "test"
+    ]
+}
